@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+<Route path='/$1' component={$2} />
+]]></content>
+	<tabTrigger>ro</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
