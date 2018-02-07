@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+export function $1(response) {
+  return {
+    type: '$2',
+    payload: response,
+  }
+}
+]]></content>
+	<tabTrigger>act</tabTrigger>
+		<scope>source.js</scope>
+</snippet>
