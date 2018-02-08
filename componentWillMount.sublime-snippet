@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+componentWillMount() {
+	$1
+},
+]]></content>
+	<tabTrigger>cwm</tabTrigger> -->
+		<scope>source.js</scope> -->
+</snippet>
