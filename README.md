@@ -1,3 +1,8 @@
+Download the snippet or snippets of your choice to: 
+
+/Users/username/Library/Application Support/Sublime Text 3/Packages/User
+
+
 Available React Snippets
 
 
