@@ -1,7 +1,6 @@
 <snippet>
 	<content><![CDATA[
 export function $1($2) {
-  // console.log($2);
   return {
     type: '$3',
     payload: $2,
