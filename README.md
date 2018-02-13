@@ -14,6 +14,7 @@ Available React Snippets
 |cwm       |ComponentWillMount
 |boc       |Button witn an onClick event
 |brc       |Basic React Component
+|eo        |Export an action
 |fset          |Fetch and set the state
 |fp            |Fetch with a Post Request
 |fpa           |Fetch with a Patch Request
