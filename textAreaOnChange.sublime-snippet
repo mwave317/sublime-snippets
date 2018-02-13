@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+<textarea cols="$1" rows="$2" onChange={ ev => this.$3('$4', ev)}
+             value={this.state.$5} placeholder="$6"/>
+]]></content>
+	<tabTrigger>tao</tabTrigger> -->
+		<scope>source.js</scope> -->
+</snippet>
